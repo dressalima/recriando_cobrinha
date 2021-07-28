@@ -1,0 +1,9 @@
+body {
+  height: 95vh;
+  width: 95vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column; /*direção dos elemntos, como cluna, deixa os elementos um embaixo do outro*/
+  color: greenyellow;
+}
